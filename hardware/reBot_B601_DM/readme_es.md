@@ -101,6 +101,11 @@ La BOM actual es la lista de componentes del brazo robótico **reBot Arm B601 DM
 
 ## 🛒 Piezas compradas (piezas estándar)
 
+
+> [!WARNING]
+> Dado que todos tendrán que armar y atornillar por su cuenta, se han seleccionado tornillos hexagonales internos estándar. Después de un funcionamiento prolongado, los tornillos pueden aflojarse y afectar la precisión del brazo robótico.
+Por ello, es necesario comprar adicionalmente pegamento termofusible para realizar un tratamiento antiflojamiento en los tornillos de cada articulación. Si disponen de taladro eléctrico u otras herramientas, pueden adquirir tornillos antiflojamiento. Sin embargo, es muy importante usar la potencia mínima con el destornillador eléctrico para evitar dañar la rosca y causar pérdidas irreversibles.
+
 | Name | Specification / Model | Quantity | Reference Price | Notes |
 |------|----------|------|----------|------|
 | Motor sin escobillas | DM4310(V4) | 4 | 120 $/unit | [SeeedStudio](https://www.seeedstudio.com/DIP-Servo-Motor-24V-120RPM-Brushless-98-9mm-4P-L56-W56-H46mm-p-6660.html) |

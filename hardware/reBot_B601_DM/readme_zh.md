@@ -100,6 +100,10 @@
 
 ## 🛒 外购件（标准件）
 
+> [!WARNING]
+> 考虑到大家需要自己组装拧螺丝，所以选购的螺丝是普通的内六角螺丝，长时间运行后可能会出现螺丝松动从而影响机械臂精度，这里需要大家额外购买热熔胶去对每个关节处的螺丝进行防松操作，如果大家手上有电钻等，可以购买防松螺丝，但是切记使用电动螺丝刀要用最小档的力，防止螺丝滑丝造成无法逆转的损失（非常重要）。
+
+
 | 名称 | 规格型号 | 数量 | 参考价格 | 备注 |
 |------|----------|------|----------|------|
 | 无刷电机 | DM4310(V4) | 4 | 599 元/颗 | [淘宝](https://item.taobao.com/item.htm?abbucket=16&id=815333472865&mi_id=0000BBduPQSNDe7t7l-kaDZprI2E6kNsYTdnIiwH62i7n_M&ns=1&skuId=5965481553139&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22d4587e8df92c3a52b25c3f2889f2cd86%22%7D&xxc=taobaoSearch) |
@@ -132,5 +136,7 @@
 | 电源 | 24V 14.6A | 1 | 105元 | [淘宝](https://item.taobao.com/item.htm?spm=tbpc.boughtlist.suborder_itemtitle.1.34672e8dbqwe4F&id=768444771109&mi_id=0000q5XsZs3g4ZVPyD9pMAwzmzJ599ubNoj3CJZN7LzDgI4) |
 | 电源 | 3插头 | 1 | 10元 | [淘宝](https://item.taobao.com/item.htm?spm=tbpc.boughtlist.suborder_itemtitle.1.1f592e8det3eBI&id=960503559387&mi_id=0000vHybX6A9mr06tmf2CYQW5G1BSCqA0KDfeQvBaxw7vfo) |
 | 电源 | XT30 16号线 | 1 | 32元 | [淘宝](https://item.taobao.com/item.htm?spm=tbpc.boughtlist.suborder_itemtitle.1.1f592e8det3eBI&id=911228476782&mi_id=0000p6sRA6SlQnZLaxoGPTHhFLbkhxB4jXkRtaDFXP5_Ofs) |
+
+
 
 ---

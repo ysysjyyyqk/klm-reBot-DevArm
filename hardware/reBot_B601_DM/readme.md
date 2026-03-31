@@ -105,6 +105,12 @@ The current BOM is the component list for the **reBot Arm B601 DM** robotic arm,
 
 ## 🛒 Purchased Parts (Standard Parts)
 
+> [!WARNING]
+> Since everyone will need to assemble and tighten the screws themselves, standard hex socket screws have been selected. After prolonged operation, the screws may loosen, which will affect the precision of the robotic arm. For this reason, you are required to purchase additional hot melt glue to perform thread locking on the screws at each joint.
+
+If you have a power drill or similar tools, you may choose to buy lock washers or thread-locking screws instead. However, **it is extremely important** that you use the lowest torque setting when using an electric screwdriver to avoid thread stripping, which will result in irreversible damage.
+
+
 | Name | Specification / Model | Quantity | Reference Price | Notes |
 |------|----------|------|----------|------|
 | Brushless motor | DM4310(V4) | 4 | 120 $/unit | [SeeedStudio](https://www.seeedstudio.com/DIP-Servo-Motor-24V-120RPM-Brushless-98-9mm-4P-L56-W56-H46mm-p-6660.html) |
