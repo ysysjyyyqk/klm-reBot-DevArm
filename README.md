@@ -80,7 +80,7 @@ We are committed to continuously maintaining and adapting to mainstream robot de
 | :--- | :---: | :--- | :--- |
 | **Basic Motor Usage** | ✅ Completed | Basic motion control and API encapsulation | [Damiao Technology](https://wiki.seeedstudio.com/cn/damiao_series/) |
 | **Open-Sourcing of the New STEP 3D Structural Parts and BOM** | ✅ Completed | STEP files for all parts in the new version, parts BOM, and reference prices for all machined components | [reBot Arm B601-DM BOM](./hardware/reBot_B601_DM/readme.md) |
-| **Reference for Real Machine Performance Testing** | 🚧 In Progress  | Performance Reference of Robotic Arm under Normal and Extreme Operating Conditions |[Expected: 2026.04.08] |
+| **Reference for Real Machine Performance Testing** | 🚧 In Progress  | Performance Reference of Robotic Arm under Normal and Extreme Operating Conditions |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing.md) |
 | **Assembly Video** | 🚧 In Progress | Ultra-detailed assembly steps and video | [Expected: 2026.04.10] |
 | **ROS2 (Humble)** | 🚧 In Progress  | Core drivers have been completed, and MoveIt2 is currently being optimized | [Expected: 2026.04.10] |
 | **Python SDK** | 🚧 In Progress  |  | [Expected: 2026.04.10] |

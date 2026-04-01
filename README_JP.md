@@ -68,7 +68,7 @@
 | :--- | :---: | :--- | :--- |
 | **モーター基本使用** | ✅ 完了 | 基本的なモーション制御と API ラッパー化 | [Damiao Technology](https://wiki.seeedstudio.com/cn/damiao_series/) |
 | **新バージョン STEP 3D 構造部品および BOM のオープンソース化** | ✅ 完了 | 新バージョンの全パーツの STEP ファイル、部品 BOM、およびすべての加工部品の参考価格 | [reBot Arm B601-DM BOM](./hardware/reBot_B601_DM/readme_jp.md) |
-| **実機性能テスト参考** | 🚧 進行中  | 通常動作および限界動作におけるロボットアームの性能参考 |[予定：2026.04.08] |
+| **実機性能テスト参考** | 🚧 進行中  | 通常動作および限界動作におけるロボットアームの性能参考 |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_JP.md) |
 | **組み立て動画** | 🚧 進行中 | 超詳細な組み立て手順と動画 | [予定：2026.04.10] |
 | **ROS2 (Humble)** | 🚧 進行中  | コアドライバはすでに完成しており、現在 MoveIt2 を最適化中です | [予定：2026.04.10] |
 | **Python SDK** | 🚧 進行中  |  | [予定：2026.04.10] |
